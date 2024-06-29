@@ -2,9 +2,9 @@
 # Irina Racu 
 _______________________________
 #### Contacts:
-Phone: +44 794364559<br>
-E-mail: irinaracu30@gmail.com<br> 
-GitHub: 
+Phone: +44 79436455  
+E-mail: irinaracu30@gmail.com  
+GitHub: [Irina-leeloo](https://github.com/Irina-leeloo)
 
 ____________________________________
 
@@ -41,11 +41,11 @@ ____________________________________
 *    Russian  ~  native
 *    Romanian  ~  fluent
 
-_______________________________
+___________________________________
 #### Education
 The Academy of Economic Studies of Moldova (ASEM) Chisinau, Moldova
 Faculty: Business and Business Administration
-Specialty: Marketing and Logistics
+Specialty: Marketing and Logistics 
 
 
 
