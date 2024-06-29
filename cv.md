@@ -13,11 +13,11 @@ Hi, I'm a graphic designer with 8 years of experience. My expertise covers vario
 
 _______________________________
 #### Work  Experience
-02.2024-present ~ Graphic\layout designer | Prestige Print LTD
-09.2017-07.2021 ~ Layout Editor | BFConsulting LTD
-10.2016-08.2017 ~ Graphic\layout designer | Magazine Sanatate LTD
-08.2015-07.2016 ~ Graphic designer | Cutline LTD
-05.2013-06.2015 ~ Graphic Designer | Klassika Asigurari LTD
+02.2024-present ~ Graphic\layout designer | Prestige Print LTD  
+09.2017-07.2021 ~ Layout Editor | BFConsulting LTD  
+10.2016-08.2017 ~ Graphic\layout designer | Magazine Sanatate LTD  
+08.2015-07.2016 ~ Graphic designer | Cutline LTD  
+05.2013-06.2015 ~ Graphic Designer | Klassika Asigurari LTD  
 
 _______________________________
 
@@ -35,7 +35,8 @@ _______________________________
 *    InDesign
 *    Photoshop
 *    Microsoft Office Suite
-____________________________________
+
+_______________________________________________
 #### Languages
 *    English  ~  intermediate (ESOL Level 1)
 *    Russian  ~  native
@@ -43,9 +44,9 @@ ____________________________________
 
 ___________________________________
 #### Education
-The Academy of Economic Studies of Moldova (ASEM) Chisinau, Moldova
-Faculty: Business and Business Administration
-Specialty: Marketing and Logistics 
+The Academy of Economic Studies of Moldova (ASEM) Chisinau, Moldova  
+Faculty: Business and Business Administration  
+Specialty: Marketing and Logistics   
 
 
 
